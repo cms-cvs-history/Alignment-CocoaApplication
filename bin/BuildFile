@@ -6,7 +6,7 @@
 <use name=OpticalAlignment/CocoaModel>
 <use name=OpticalAlignment/CocoaFit>
 <use name=OpticalAlignment/CocoaUtilities>
-<use name=OpticalAlignment/CocoaAnalysisMgr>
+<use name=OpticalAlignment/CocoaAnalysis>
 <use name=OpticalAlignment/CocoaToDDL>
 <use name=OpticalAlignment/CocoaDDLObjects>
 
