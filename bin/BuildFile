@@ -3,12 +3,12 @@
 <use name=root>
 <use name=rootcore>
 
-<use name=OpticalAlignment/CocoaModel>
-<use name=OpticalAlignment/CocoaFit>
-<use name=OpticalAlignment/CocoaUtilities>
-<use name=OpticalAlignment/CocoaAnalysis>
-<use name=OpticalAlignment/CocoaToDDL>
-<use name=OpticalAlignment/CocoaDDLObjects>
+<use name=Alignment/CocoaModel>
+<use name=Alignment/CocoaFit>
+<use name=Alignment/CocoaUtilities>
+<use name=Alignment/CocoaAnalysis>
+<use name=Alignment/CocoaToDDL>
+<use name=Alignment/CocoaDDLObjects>
 
 <lib name=Core></lib>
 
