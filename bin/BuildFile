@@ -10,6 +10,4 @@
 <use name=Alignment/CocoaToDDL>
 <use name=Alignment/CocoaDDLObjects>
 
-<lib name=Core></lib>
-
 <bin file=cocoa.cpp name=cocoa></bin>
